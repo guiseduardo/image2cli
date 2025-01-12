@@ -1,2 +1,2 @@
-# image2cli
-Very simple CLI app to display images to any truecolor-compatible terminal
+TODO readme, but just make a build directory and build/install with cmake.
+Requires OpenCV 4.x.
